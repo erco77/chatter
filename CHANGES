@@ -1,0 +1,6 @@
+1.10 -- Improved various things, added Archive button for moderator.
+        Fixed problem with copy/paste not including crlfs
+        Fixed problem with input fields not maintaining focus
+                o Login screen now opens with login field in focus
+                o During chat, input field stays in focus after 'Send'
+        Changed time marks to have <br> white space above/below
